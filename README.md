@@ -104,9 +104,12 @@ Visit: [http://127.0.0.1:5001](http://127.0.0.1:5001) to open the app in your br
 
 \
 *Clean traffic input form with custom background.*
+![Screenshot 2025-06-29 195057](https://github.com/user-attachments/assets/70f09a86-4300-49fd-98c2-86ce9fdf71d6)
+![Screenshot 2025-06-29 195129](https://github.com/user-attachments/assets/d22b68f1-af27-4a97-ac8f-aa113e9764a0)
 
 \
 *Animated output page with prediction result.*
+![Screenshot 2025-06-29 195156](https://github.com/user-attachments/assets/b2ac6c2b-8767-4125-8a8d-915168098ba1)
 
 ---
 
